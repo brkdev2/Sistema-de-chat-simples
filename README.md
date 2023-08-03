@@ -1,4 +1,4 @@
-Este é um projeto de chat simples desenvolvido por brkdev2 ([link do seu perfil](https://github.com/brkdev2/)) usando HTML, CSS e JavaScript. Ele consiste em uma aplicação web que permite enviar e receber mensagens em tempo real, utilizando uma API RESTful para armazenar e recuperar as mensagens.
+Este é um projeto de chat simples desenvolvido por brkdev2 ([Github](https://github.com/brkdev2/)) usando HTML, CSS e JavaScript. Ele consiste em uma aplicação web que permite enviar e receber mensagens em tempo real, utilizando uma API RESTful para armazenar e recuperar as mensagens.
 
 Recursos
 Envio de mensagens em tempo real.
