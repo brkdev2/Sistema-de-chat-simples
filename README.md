@@ -25,7 +25,7 @@ CREATE TABLE messages (
     timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
 );
 
-Use node chat.js para iniciar o servidor no localhost
+Use node chat.js para iniciar o servidor no localhost e
 acesse localhost:3000 em seu navegador
 
 Agora você pode utilizar o chat, enviar e receber mensagens em tempo real e experimentar os recursos disponíveis.
