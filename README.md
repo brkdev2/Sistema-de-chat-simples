@@ -14,8 +14,19 @@ Clone o repositório para sua máquina local:
 
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
+npm install mysql2
+npm install mysql2 express
 
-Abra o arquivo "index.html" em seu navegador.
+Crie um banco de dados chamado chat ou altere por um nome de sua preferencia e importe a tabela de mensagens no banco de dados
+
+CREATE TABLE messages (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    message TEXT,
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
+);
+chatmessages
+
+Use node chat.js para iniciar em seu localhost:3000
 
 Agora você pode utilizar o chat, enviar e receber mensagens em tempo real e experimentar os recursos disponíveis.
 
