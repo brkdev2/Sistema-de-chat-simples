@@ -12,7 +12,7 @@ Para utilizar o chat em sua máquina local, siga os passos abaixo:
 
 Clone o repositório para sua máquina local:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone [chat-simples](https://github.com/brkdev2/Sistema-de-chat-simples)
 
 npm install mysql2
 npm install mysql2 express
